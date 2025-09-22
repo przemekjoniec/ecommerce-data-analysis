@@ -1,0 +1,52 @@
+# 📊 E-Commerce Analysis – RFM & CLV Segmentation
+
+## 📌 Project Overview
+
+This project focuses on **exploratory data analysis (EDA)** and **dashboard creation** for a dataset containing over 500,000 e-commerce transactions.
+
+The main goal was to transform raw data into actionable business insights by answering key questions related to customer behavior, profitability, and operational efficiency.
+
+## 📂 Data Source
+
+* **Online Retail** dataset from the UCI Machine Learning Repository
+* Historical data from 2010 to 2011
+* **Data fields:** InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice, CustomerID, Country
+
+## 🛠️ Data Preparation
+
+This was a critical and time-consuming phase. The following steps were taken to ensure data quality:
+* Separated raw data into two structured tables: **Sales** and **Returns**.
+* Cleaned and standardized the data by removing duplicates, empty values, and irrelevant records (e.g., non-product transactions).
+* Corrected and standardized country names (e.g., "EIRE" to "Ireland").
+* Added new, calculated columns: **TotalPrice**, **Year**, **Month**, **Day**, **DayOfWeek**, and **Hour** for time-based analysis.
+
+## 🔎 Key Analyses
+
+The following analyses were performed to answer key business questions:
+* **RFM (Recency, Frequency, Monetary Value) Analysis:** Segmented customers into groups like **Champions**, **Loyal Customers**, and **At Risk** to understand their behavior.
+* **CLV (Customer Lifetime Value) Analysis:** Assessed the long-term value of each customer segment.
+* **Correlation Analysis:** Explored the relationship between RFM variables, discovering a strong positive correlation between frequency and monetary value.
+* **Geographical Analysis:** Visualized and compared sales and returns across different countries.
+* **Temporal Analysis:** Identified key sales trends by month, day of the week, and hour of the day.
+* **Operational Analysis:** Identified the most returned products and the financial loss they generate.
+
+## 📊 Dashboard in Power BI
+
+An interactive dashboard was built in **Power BI** to visualize key metrics and insights from the analysis. The dashboard allows users to:
+* Filter data by **Month**, **Segment**, and **Country**.
+* Compare key customer segments side-by-side.
+* Analyze operational performance, including returns and product profitability.
+* Identify key sales trends.
+
+## 🚀 Tools & Technologies
+
+* **Power BI** – data modeling, analysis, and dashboard creation
+* **DAX** – for creating key performance metrics and columns
+* **Excel** – for data cleaning and manipulation, initial data exploration and validation
+
+## 📈 Key Outcomes & Business Recommendations
+
+The project successfully transformed raw transaction data into actionable business strategies:
+* **Customer-Centric Growth:** Identified **Champions** as the most valuable segment and recommended a focus on retention through personalized marketing campaigns.
+* **Operational Efficiency:** Pinpointed the most returned products and identified **UK** as a key market for optimization due to a high volume of returns.
+* **Strategic Insights:** Provided clear evidence of a strong correlation between purchase frequency and spending, supporting investment in loyalty programs.

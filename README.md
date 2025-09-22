@@ -51,8 +51,10 @@ The project successfully transformed raw transaction data into actionable busine
 * **Operational Efficiency:** Pinpointed the most returned products and identified **UK** as a key market for optimization due to a high volume of returns.
 * **Strategic Insights:** Provided clear evidence of a strong correlation between purchase frequency and spending, supporting investment in loyalty programs.
 
-<img width="1309" height="738" alt="5" src="https://github.com/user-attachments/assets/4f8ca70e-3880-464b-97fe-815eb4dcec8e" />
-<img width="1310" height="738" alt="3" src="https://github.com/user-attachments/assets/f4d4ed57-d70a-4386-88b3-b985ae50735a" />
-<img width="1312" height="739" alt="2" src="https://github.com/user-attachments/assets/98339ec5-e117-454c-a8f4-fe0402f47ccd" />
-<img width="1316" height="736" alt="4" src="https://github.com/user-attachments/assets/4e0be7cb-11c0-4f4a-8ef7-f9a082ec540e" />
+
 <img width="1307" height="728" alt="1" src="https://github.com/user-attachments/assets/685841e7-6a89-477e-933b-c250eb10c186" />
+<img width="1312" height="739" alt="2" src="https://github.com/user-attachments/assets/98339ec5-e117-454c-a8f4-fe0402f47ccd" />
+<img width="1310" height="738" alt="3" src="https://github.com/user-attachments/assets/f4d4ed57-d70a-4386-88b3-b985ae50735a" />
+<img width="1316" height="736" alt="4" src="https://github.com/user-attachments/assets/4e0be7cb-11c0-4f4a-8ef7-f9a082ec540e" />
+<img width="1309" height="738" alt="5" src="https://github.com/user-attachments/assets/4f8ca70e-3880-464b-97fe-815eb4dcec8e" />
+
